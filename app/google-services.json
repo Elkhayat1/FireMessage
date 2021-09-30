@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628689894172",
+    "project_id": "firemessage-ac929",
+    "storage_bucket": "firemessage-ac929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628689894172:android:f5ce8339fcfdc4712198d9",
+        "android_client_info": {
+          "package_name": "com.example.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628689894172-jk018sfqg5i6usnk28ulvn8eukrmgcgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_ml-92TEqD-yObrPtZ2_KrRmFXoK3Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628689894172-jk018sfqg5i6usnk28ulvn8eukrmgcgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
